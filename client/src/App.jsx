@@ -16,7 +16,7 @@ const App = () => {
 
   return (
     <div>
-      <h1>Notes App</h1>
+      <h1>Notes App </h1>
       {loggedIn ? (
         <>
           <button onClick={handleLogout}>Logout</button>
